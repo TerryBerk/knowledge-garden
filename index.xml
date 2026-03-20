@@ -24,11 +24,11 @@
     <description><![CDATA[ BRZ Z7 CB250 — Полное исследование (×2 мотоцикла) У меня 2 одинаковых мотоцикла BRZ Z7 CB250. Все расходники и расчёты ниже учитывают это. ]]></description>
     <pubDate>Mon, 02 Nov 2026 21:00:00 GMT</pubDate>
   </item><item>
-    <title>20-03-2026-v14-dark-rooms-and-stylization-report</title>
-    <link>https://terryberk.github.io/knowledge-garden/03-resources/research/20-03-2026-v14-dark-rooms-and-stylization-report</link>
-    <guid>https://terryberk.github.io/knowledge-garden/03-resources/research/20-03-2026-v14-dark-rooms-and-stylization-report</guid>
-    <description><![CDATA[ v14 Dark Rooms Fix + Gemini Stylization Report Дата: 20-03-2026 Версия сцены: v14 (apartment_v14_lit.blend) Blender: 5.1.0 | EEVEE | Ray Tracing ON | AgX Base Contrast Модель стилизации: gemini-3-pro-image-preview 1. ]]></description>
-    <pubDate>Fri, 20 Mar 2026 16:46:17 GMT</pubDate>
+    <title>v14-dark-rooms-and-stylization</title>
+    <link>https://terryberk.github.io/knowledge-garden/publication/v14-report/v14-dark-rooms-and-stylization</link>
+    <guid>https://terryberk.github.io/knowledge-garden/publication/v14-report/v14-dark-rooms-and-stylization</guid>
+    <description><![CDATA[ v14 Dark Rooms Fix + Gemini Stylization Report Date: 2026-03-20 Scene: v14 (apartment_v14_lit.blend) Blender: 5.1.0 | EEVEE | Ray Tracing ON | AgX Base Contrast Stylization model: gemini-3-pro-image-preview 1. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 21:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
